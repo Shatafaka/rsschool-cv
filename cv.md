@@ -24,9 +24,9 @@ function areYouPlayingBanjo(name) {
 ```
 
 **Proffecional experience:**  
-2009-2010: RusBitTech LLC, _position_: developer  
+2009-2010: RusBitTech LLC, _position_: developer;  
 2010-2016: Anti - aircraft missile division, _position_: engineer;  
-2016 up to present: Military Academy of air soace defence, _position_: engineer;    
+2016 up to present: Military Academy of air soace defence, _position_: engineer.    
 
 **EDUCATION**  
 2004-2009: Military academy of air space defence, _faculty_: Automated control systems;  
