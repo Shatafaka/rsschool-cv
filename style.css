@@ -1,0 +1,14 @@
+body {
+  background-color: #ffffffd2;
+}
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333333d2;
+  background-color: #e2dbdbd2;
+}
+.round-image {
+  border-radius: 10%;
+}
+table {
+  width: 100%;
+}

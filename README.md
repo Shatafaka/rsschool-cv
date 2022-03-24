@@ -1,1 +1,1 @@
-https://shatafaka.github.io/rsschool-cv/cv
+https://shatafaka.github.io/rsschool-cv/
